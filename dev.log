@@ -7,3 +7,12 @@ ipt'i tamamen rasgele karakterler ile harita olusturuyor.
 enin nasil gelistirilmesi gerektigi ve log script dosyasinin kullanimi hakkinda 
 bilgiler eklendi.
 
+[wagabond12@wagabondHOME - 08/03/2025 20:05:21] readme dosyasindaki gramer hatal
+ari duzeltildi.
+
+[wagabond12@wagabondHOME - 08/03/2025 20:29:30] ft_putnbr fonksiyonu utils kutup
+hanesine eklendi. bu fonksiyon integer olarak verilen sayiyi stdout'a yazar.
+
+[wagabond12@wagabondHOME - 08/03/2025 20:38:33] ft_atoi ve ft_isspace fonksiyonl
+ari utils kutuphanesine eklendi.
+
