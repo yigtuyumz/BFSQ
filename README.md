@@ -1,1 +1,1 @@
-## Did you know that the Biggest Fucking SQuare is [Xinghai Square](https://en.wikipedia.org/wiki/Xinghai_Square) in the world?
+## Did you know that the Biggest Fucking SQuare in the World is [Xinghai Square](https://en.wikipedia.org/wiki/Xinghai_Square) ?
