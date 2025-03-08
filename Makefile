@@ -1,4 +1,4 @@
-CC := gcc
+CC := cc
 CFLAGS := -Wall -Wextra -Werror
 SRCDIR := srcs
 OUTDIR := out
@@ -7,11 +7,11 @@ OBJS = $(shell find -name '*.o')
 PROG_NAME := BFSQ
 
 all: $(OUTDIR) $(PROG_NAME)
-	@echo "asdas >> $(OBJS)"
-	@printf "Building %s..\n" $(PROG_NAME)
+	@printf "Linking %s..\n" $(PROG_NAME)
 	$(CC) $(OBJS) -o $(PROG_NAME)
 
 $(PROG_NAME): utils
+	@printf "Building %s..\n" $(PROG_NAME)
 	$(CC) $(CFLAGS) -c $(SRCDIR)/main.c -o $(OUTDIR)/main.o
 
 $(OUTDIR):
