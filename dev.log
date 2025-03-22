@@ -21,6 +21,7 @@ ldirildi, norminette kullanimi icin olusturulacak python environment klasoru ign
 ore edildi.
 
 [wagabond12@wagabondHOME - 22/03/2025 18:46:07] Readme dosyasi duzenlendi.
+
 [wagabond12@wagabondHOME - 22/03/2025 19:15:11] Hatali bir sekilde olusan harita
 larin tespitinin saglanabilmesi icin map generator scripti duzenlendi. Artik, em
 pty fill ve wall karakterleri unique degil.
